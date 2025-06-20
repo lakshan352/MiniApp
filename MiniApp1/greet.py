@@ -1,5 +1,3 @@
-"""This is comment"""
-
 import datetime
 def greet(name):
  now = datetime.datetime.now()
